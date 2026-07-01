@@ -8,7 +8,7 @@
   },
   {
     "city_id": 2,
-    "city": "Los Vegas",
+    "city": "Las Vegas",
     "state": "CA",
     "region": "West",
     "city_updated_at": "2026-07-01T20:45:30.824+00:00"
